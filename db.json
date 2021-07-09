@@ -7,41 +7,36 @@
     },
     {
       "id": 2,
-      "image": "https://i.ibb.co/XyKLxGf/endomarketing.png",
-      "title": "ENDOMARKETING"
-    },
-    {
-      "id": 3,
       "image": "https://i.ibb.co/7r8PRgc/reda-o.png",
       "title": "REDAÇÃO"
     },
     {
-      "id": 4,
+      "id": 3,
       "image": "https://i.ibb.co/02jNkwm/branding.png",
       "title": "BRANDING"
     },
     {
-      "id": 5,
+      "id": 4,
       "image": "https://i.ibb.co/5TDXhjq/planejamento.png",
       "title": "PLANEJAMENTO ESTRATÉGICO"
     },
     {
-      "id": 6,
+      "id": 5,
       "image": "https://i.ibb.co/gDxWk0b/marketing.png",
       "title": "MARKETING DIGITAL"
     },
     {
-      "id": 7,
+      "id": 6,
       "image": "https://i.ibb.co/gdHfnHM/redes-sociais.png",
       "title": "REDES SOCIAIS"
     },
     {
-      "id": 8,
+      "id": 7,
       "image": "https://i.ibb.co/6trwsG0/offline.png",
       "title": "MÍDIA OFFLINE"
     },
     {
-      "id": 9,
+      "id": 8,
       "image": "https://i.ibb.co/pyk0z7S/video.png",
       "title": "EDIÇÃO DE VÍDEOS"
     }
