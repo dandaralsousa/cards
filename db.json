@@ -2,17 +2,17 @@
   "services": [
     {
       "id": 1,
-      "image": "https://ibb.co/zxHL93b",
+      "image": "https://i.ibb.co/h91nQGH/desing.png",
       "title": "DESIGN GRÁFICO"
     },
     {
       "id": 2,
-      "image": "https://ibb.co/DGvWfjP",
+      "image": "https://i.ibb.co/XyKLxGf/endomarketing.png",
       "title": "ENDOMARKETING"
     },
     {
       "id": 3,
-      "image": "https://ibb.co/kqkj93n",
+      "image": "https://i.ibb.co/7r8PRgc/reda-o.png",
       "title": "REDAÇÃO"
     },
     {
@@ -22,27 +22,27 @@
     },
     {
       "id": 5,
-      "image": "https://ibb.co/6Yhc0t6",
+      "image": "https://i.ibb.co/5TDXhjq/planejamento.png",
       "title": "PLANEJAMENTO ESTRATÉGICO"
     },
     {
       "id": 6,
-      "image": "https://ibb.co/FBFYRQk",
+      "image": "https://i.ibb.co/gDxWk0b/marketing.png",
       "title": "MARKETING DIGITAL"
     },
     {
       "id": 7,
-      "image": "https://ibb.co/G9B8hBv",
+      "image": "https://i.ibb.co/gdHfnHM/redes-sociais.png",
       "title": "REDES SOCIAIS"
     },
     {
       "id": 8,
-      "image": "https://ibb.co/LgYRpBd",
+      "image": "https://i.ibb.co/6trwsG0/offline.png",
       "title": "MÍDIA OFFLINE"
     },
     {
       "id": 9,
-      "image": "https://ibb.co/rsX76jV",
+      "image": "https://i.ibb.co/pyk0z7S/video.png",
       "title": "EDIÇÃO DE VÍDEOS"
     }
   ]
